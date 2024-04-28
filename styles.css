@@ -1,0 +1,34 @@
+body {
+  background-color: aquamarine;
+}
+
+h1 {
+  color: #032c0e;
+  font-size: 100px;
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: black;
+}
+
+.container {
+  border: 1px solid black;
+  width: 500px;
+  padding: 20px;
+  margin: 0px auto;
+  background-color: rgb(255, 0, 0);
+}
+
+.password {
+  font-size: 40px;
+  margin-bottom: 20px;
+  text-align: center;
+  padding: 10px 0px;
+  font-weight: bold;
+  width: 100%;
+}
+
+.button {
+  width: 100%;
+  font-size: 25px;
+  padding: 10px 0px;
+}
